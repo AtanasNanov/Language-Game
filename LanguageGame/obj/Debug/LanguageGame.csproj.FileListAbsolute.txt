@@ -1,0 +1,7 @@
+C:\Users\Botyo\source\repos\LanguageGame\LanguageGame\bin\Debug\LanguageGame.exe.config
+C:\Users\Botyo\source\repos\LanguageGame\LanguageGame\bin\Debug\LanguageGame.exe
+C:\Users\Botyo\source\repos\LanguageGame\LanguageGame\bin\Debug\LanguageGame.pdb
+C:\Users\Botyo\source\repos\LanguageGame\LanguageGame\obj\Debug\LanguageGame.csproj.AssemblyReference.cache
+C:\Users\Botyo\source\repos\LanguageGame\LanguageGame\obj\Debug\LanguageGame.csproj.CoreCompileInputs.cache
+C:\Users\Botyo\source\repos\LanguageGame\LanguageGame\obj\Debug\LanguageGame.exe
+C:\Users\Botyo\source\repos\LanguageGame\LanguageGame\obj\Debug\LanguageGame.pdb
